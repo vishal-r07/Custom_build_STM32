@@ -168,22 +168,4 @@ Both sources are diode-ORed so either can power the board independently; the AMS
 
 ---
 
-## 7. Repository Structure Suggestion
-
-For GitHub documentation purposes, this file is intended to sit alongside:
-
-```
-/hardware
-  ├── customized-stm32.kicad_pro
-  ├── customized-stm32.kicad_sch
-  ├── customized-stm32.kicad_pcb
-  ├── BOM.csv
-  └── HARDWARE_DOCUMENTATION.md   <- this file
-/firmware
-  └── ...
-README.md
-```
-
----
-
-*Document generated as design documentation for the Customized STM32 board (Vishal Meyyappan R).*
+## Designed by Vishal Meyyappan R
