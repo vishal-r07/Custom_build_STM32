@@ -168,4 +168,16 @@ Both sources are diode-ORed so either can power the board independently; the AMS
 
 ---
 
+<img width="1136" height="670" alt="image" src="https://github.com/user-attachments/assets/540751cd-d8b3-4893-af91-e856eea13220" />
+
+**PCB Editor**
+
+<img width="1154" height="848" alt="image" src="https://github.com/user-attachments/assets/1d5ad453-f448-4b5e-89cd-eae1b3c2d303" />
+
+**3D VIEW**
+
+I have attached Schematic sheet as output.pdf
+
+---
+
 ## Designed by Vishal Meyyappan R
